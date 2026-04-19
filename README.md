@@ -13,7 +13,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
-![GitHub Repo stars](https://img.shields.io/github/maxalmonds/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
 ![GitHub forks](https://img.shields.io/github/forks/maxalmonds/Portfolio?color=red&logo=github&style=for-the-badge)
 
 </center>
@@ -29,20 +28,20 @@ You can fork this repo to modify and make changes of your own. Please give me pr
 
 My personal portfolio <a href="https://maxalmonds.github.io/portfolio" target="_blank">maxalmonds</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
-This project was built using these technologies.
+Tech stack and tools used to build the Portfolio App 
 
 - React.js
 - Node.js
 - Express.js
 - CSS3
 - VsCode
-- Vercel
+- Github-Pages
 
 ## Features
 
 **📖 Multi-Page Layout**
 
-**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
+**🎨 Styled with React-Bootstrap and CSS with easy to customize colors**
 
 **📱 Fully Responsive**
 
